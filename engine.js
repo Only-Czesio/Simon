@@ -63,7 +63,7 @@ function checkInput(color) {
             }, 200);
         }
     } else {
-        alert('Wrong color! Game over.!'`You made ${i}`);
+        alert('Wrong color! Game over.!');
     }
 }
 startButton.addEventListener('click', () => {
